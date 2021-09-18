@@ -28,8 +28,8 @@ We have very simple rules that we expect every member to follow.
 
 <br>
 
-<h3>Join our Discord&nbsp; ➛ &nbsp; <a href="https://discord.gg/4A4kdGNMjK"></a>
-<img alt="The Nerd Society Discord" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Click to join" />
+<h3>Join our Discord&nbsp; ➛ &nbsp; <a href="https://discord.gg/4A4kdGNMjK">
+<img alt="The Nerd Society Discord" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Click to join" /></a>
  <img src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif" align="right" width="100px">
 
 </h3>
