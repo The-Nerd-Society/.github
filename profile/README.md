@@ -30,9 +30,9 @@ We have very simple rules that we expect every member to follow.
 
 <h3>Join our Discord</h3>
 
-- <a href="https://discord.gg/4A4kdGNMjK">The Nerd Society</a>
+<a href="https://discord.gg/4A4kdGNMjK">The Nerd Society</a>
 <img src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif" align="right" width="100px">
 
-<br><br>
+<br>
 
 <pre>Thank you for visiting</pre>
