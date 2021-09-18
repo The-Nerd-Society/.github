@@ -15,19 +15,22 @@
 <br>
 <p>In this society, every developer has a voice that will be listened regardless of their experience. Whether you are a beginner, intermediate or an expert, all of those who have a passion for engineering and software are welcome here.</p>
 
-<br><br>
+<br>
 
-<h4><b><i>Rules of The Nerd Society</i></b></h4>
+<h2>Rules 📃</h2>
 
-We have very simple rule that we expect every member to follow.
+We have very simple rules that we expect every member to follow.
 
-<pre>❖ Be respectful to other members. Absolutely no harrasment, sexism, racism, or hate speech will be tolerated.</pre>
+<pre>
+❖ Be respectful to other members. 
+❖ Absolutely no harrasment, sexism, racism, or hate speech will be tolerated.
+</pre>
 
-<br><br>
+<br>
 
-<b><i>Join our Discord server</i></b>
+<h3>Join our Discord</h3>
 
-<a href="https://discord.gg/4A4kdGNMjK">The Nerd Society</a>
+- <a href="https://discord.gg/4A4kdGNMjK">The Nerd Society</a>
 <img src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif" align="right" width="100px">
 
 <br><br>
