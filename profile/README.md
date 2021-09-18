@@ -28,12 +28,10 @@ We have very simple rules that we expect every member to follow.
 
 <br>
 
-<h3>Join our Discord <a href="https://discord.gg/4A4kdGNMjK">
-
- <img src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif" align="right" width="100px"></a>
-
+<h3>Join our Discord ➛ <a href="https://discord.gg/4A4kdGNMjK">
+ <img src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif" align="right" width="100px" title="Click to join"></a>
 </h3>
 
-<br>
+<br><br>
 
 <pre>Thank you for visiting</pre>
