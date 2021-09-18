@@ -10,14 +10,14 @@
 
 <br><br>
 
-<h3><b><i>About us</i></b></h3>
-<p><b>The Nerd Socirty</b> is a community for developers who call themselves <i>nerds</i>. Here, we are driven to create the next generation of tools and technologies that will be loved across the community. We just don't wanna create another tool, our goal here is to create <i>magic</i>. If you are crazy as these lines, we would love to have you onboard.</p> 
+<h2>About us</h2>
+<p><b>The Nerd Society</b> is a community for developers who call themselves <i>nerds</i>. Here, we are driven to create the next generation of tools and technologies that will be loved across the community. We just don't wanna create another tool, our goal here is to create <i>magic</i>. If you are crazy as these lines, we would love to have you onboard.</p> 
 <br>
 <p>In this society, every developer has a voice that will be listened regardless of their experience. Whether you are a beginner, intermediate or an expert, all of those who have a passion for engineering and software are welcome here.</p>
 
 <br><br>
 
-<h3><b><i>Rules of The Nerd Society</i></b></h3>
+<h4><b><i>Rules of The Nerd Society</i></b></h4>
 
 We have very simple rule that we expect every member to follow.
 
@@ -28,7 +28,8 @@ We have very simple rule that we expect every member to follow.
 <b><i>Join our Discord server</i></b>
 
 <a href="https://discord.gg/4A4kdGNMjK">The Nerd Society</a>
+<img src="https://media.giphy.com/media/MTthOZkkWaD42wiqqz/giphy.gif" align="right" width="100px">
+
 <br><br>
 
-
-> <h4 align ="center">Thank you for visiting.</h4>
+<pre>Thank you for visiting</pre>
