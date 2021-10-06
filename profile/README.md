@@ -34,4 +34,4 @@ We have very simple rules that we expect every member to follow.
 
 <br><br>
 
-<pre>Thank you for visiting</pre>
+<h2 align="center">Thank you for visiting</h2>
