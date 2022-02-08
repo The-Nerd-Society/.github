@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/21MphNwjTcQf0CzxaY/giphy-downsized-large.gif?cid=ecf05e47ct13wk6kyryway694c3ag7vpr24s1aolnsbx2zlr&rid=giphy-downsized-large.gif&ct=s" align="right" width="100px">
 
 
-> <h3>Welcome to The Nerd Society</h3>
+> <h2>Welcome</h2>
 
 
 <br><br>
