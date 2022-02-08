@@ -5,9 +5,6 @@
 
 > <h2>Welcome</h2>
 
-
-<br><br>
-
 <h3>About us</h3>
 <p><b>The Nerd Society</b> is a community for developers who call themselves <i>nerds</i>. Here, we are driven to create the next generation of tools and technologies that will be loved across the community. We just don't wanna create another tool, our goal here is to create <i>magic</i>. If you are crazy as these lines, we would love to have you onboard.</p> 
 <br>
