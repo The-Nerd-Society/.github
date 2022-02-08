@@ -1,4 +1,4 @@
-<img src="profile/NerdSocietyHeader.png">
+<img src="profile/orgHeader.png">
 
 <br>
 
