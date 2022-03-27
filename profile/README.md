@@ -1,4 +1,4 @@
-<img src="../nerd-society-header.png">
+<img src="/nerd-society-header.png">
 
 <br>
 
